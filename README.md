@@ -18,7 +18,7 @@ A fun and interactive number guessing game built with **Flutter**! Test your luc
 
 | Home Screen | Game Screen | High Scores |
 |-------------|-------------|-------------|
-| ![Home](https://github.com/ItsTimonExe/GuessGame/blob/master/Capture%20d'%C3%A9cran%202025-05-15%20171844.png) | ![Game](https://github.com/ItsTimonExe/GuessGame/blob/master/Capture%20d'%C3%A9cran%202025-05-15%20171830.png) | ![Scores](https://via.placeholder.com/150](https://github.com/ItsTimonExe/GuessGame/blob/master/Capture%20d'%C3%A9cran%202025-05-15%20171844.png)) |
+| ![Home](https://github.com/ItsTimonExe/GuessGame/blob/master/Capture%20d'%C3%A9cran%202025-05-15%20171844.png) | ![Game](https://github.com/ItsTimonExe/GuessGame/blob/master/Capture%20d'%C3%A9cran%202025-05-15%20171830.png) | ![Scores](https://github.com/ItsTimonExe/GuessGame/blob/master/Capture%20d'%C3%A9cran%202025-05-15%20171844.png) |
 
 ---
 
